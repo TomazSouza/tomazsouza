@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Tomaz Souza 👋
 
-- 🔭 Atualmente trabalhando com Android (Java/Kotlin)
-- 🌱 Estudando Flutter
+- 🔭 Atualmente trabalhando com Android (Java/Kotlin) e Flutter
 
 
 

@@ -1,8 +1,10 @@
-### Olá! Eu sou o Tomaz 👋
+# 👨‍💻 Tomaz 👋
 
-- 🔭 Atualmente trabalhando com Android (Java/Kotlin) e Flutter
+🔭 Sou um desenvolvedor mobile com mais de 2 anos de experiência em desenvolvimento Android. Trabalhei em alguns aplicativos, como RPC - Rede Ponto Certo Tecnologia e Serviços. Atualmente estou trabalhando na Promobit, atuo na área de desenvolvimento mobile multiplataforma com Flutter (Android / iOS). Possuo sólidos conhecimentos em programação Java, OOP, Kotlin e JavaScript. Tenho interesse em escalabilidade de aplicações, infraestrutura, melhores práticas de desenvolvimento e TDD.
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+---
 
 ### 🤖 Linguagens e Tecnologias
 
